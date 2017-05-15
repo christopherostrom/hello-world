@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Adjusting the readme file to test how commits work.
